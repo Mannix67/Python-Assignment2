@@ -1,5 +1,5 @@
 # Python-Assignment2 Description
-
+User input and exceptions
 2 questions
 
 ![Screenshot (63)](https://user-images.githubusercontent.com/84920516/141841957-56a6e237-567c-4fe6-9d74-b09d5c43d83a.png)
